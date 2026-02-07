@@ -1,4 +1,4 @@
-# rose-day
+https://github.com/shuence/Roseday/issues/2# rose-day
 
 A simple pen to wish happy rose day to your loved ones 
 codepen :- https://codepen.io/shuence/pen/PoOWwBQ
